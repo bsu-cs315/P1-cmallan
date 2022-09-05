@@ -5,8 +5,9 @@ Cameron Allan's Project 1
 - Launch Ball - (Left Mouse Button - ON the ball)
 - Reset Level - (Left Mouse Button on the Reset Button)
 
-## Third Part Assets
-- [Kenny's Physics Assets Pack](https://www.kenney.nl/assets/physics-assets), Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+## Third Party Assets
+- [Kenney's Physics Assets Pack](https://www.kenney.nl/assets/physics-assets), Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+- [Kenney's Game Icons Pack](https://www.kenney.nl/assets/game-icons), Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Project Report Iteration 1
 
