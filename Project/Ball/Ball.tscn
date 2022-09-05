@@ -16,6 +16,7 @@ animations = [ {
 
 [node name="Ball" type="RigidBody2D"]
 input_pickable = true
+mass = 0.510204
 gravity_scale = 9.8
 script = ExtResource( 1 )
 
