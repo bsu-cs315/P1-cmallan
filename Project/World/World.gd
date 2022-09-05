@@ -17,7 +17,7 @@ func _process(delta):
 	
 func spawn_ball():
 	var ball : RigidBody2D = load("res://Project/Ball/Ball.tscn").instance()
-	ball.position = Vector2(82, 45)
+	ball.position = Vector2(65, 237)
 	call_deferred("add_child", ball)
 
 func spawn_flag():
