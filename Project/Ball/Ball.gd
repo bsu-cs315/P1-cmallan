@@ -17,3 +17,4 @@ func _on_Ball_input_event(viewport, event, shape_idx):
 
 func _process(delta):
 	pass
+
