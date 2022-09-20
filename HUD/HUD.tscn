@@ -1,0 +1,32 @@
+[gd_scene format=2]
+
+[node name="HUD" type="Node2D"]
+
+[node name="Angle" type="Label" parent="."]
+margin_left = 1.0
+margin_right = 59.0
+margin_bottom = 14.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Angle:"
+
+[node name="Power" type="Label" parent="."]
+margin_top = 15.0
+margin_right = 57.0
+margin_bottom = 29.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Power:"
+
+[node name="Score" type="Label" parent="."]
+margin_left = 71.0
+margin_right = 151.0
+margin_bottom = 14.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Score:"
+
+[node name="BallsLeft" type="Label" parent="."]
+margin_left = 71.0
+margin_top = 13.0
+margin_right = 153.0
+margin_bottom = 27.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Balls Left:"

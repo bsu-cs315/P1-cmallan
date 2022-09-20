@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/elementMetal011.png-4a54909ce19e55bb0bb253e2791e2cde.stex"
+path="res://.import/flagGreen.png-2146298f989e358bc3329fd980cab11c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Project/Textures/elementMetal011.png"
-dest_files=[ "res://.import/elementMetal011.png-4a54909ce19e55bb0bb253e2791e2cde.stex" ]
+source_file="res://Assets/flagGreen.png"
+dest_files=[ "res://.import/flagGreen.png-2146298f989e358bc3329fd980cab11c.stex" ]
 
 [params]
 

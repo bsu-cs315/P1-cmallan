@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/elementMetal020.png-647ec633e1d0139634d84909e0da7d42.stex"
+path="res://.import/arrowRight.png-6a4fd1a63d7f677dab1f0aae790ac396.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Project/Textures/elementMetal020.png"
-dest_files=[ "res://.import/elementMetal020.png-647ec633e1d0139634d84909e0da7d42.stex" ]
+source_file="res://Assets/arrowRight.png"
+dest_files=[ "res://.import/arrowRight.png-6a4fd1a63d7f677dab1f0aae790ac396.stex" ]
 
 [params]
 

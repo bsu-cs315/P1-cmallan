@@ -37,4 +37,6 @@ This iteration did solidify my ability to use GitBash and help me feel much more
 - [ ] B-3: There is a non-ground target that the projectile can hit.
 - [X] A-1: The player can modify the strength of the projectile's firing.
 - [X] A-2: There is a visual indicator showing the angle at which the projectile will fire.
-- [X] A-3: The projectile's hitting the target is recognized and logged to the console or otherwise indicated.
+- [ ] A-3: The projectile's hitting the target is recognized and logged to the console or otherwise indicated.
+
+The
