@@ -17,7 +17,7 @@ Launching the ball and hitting the flag is indicated by a sound. The game ends a
 - [ProjectsU012's coin sound](https://freesound.org/people/ProjectsU012/sounds/341695/), Licensed under [CC 4.0 Universal](https://creativecommons.org/licenses/by/4.0/)
 - [volivieri's Ball hitting the ground sound](https://freesound.org/people/volivieri/sounds/37154/), Licensed under [CC 4.0 Universal](https://creativecommons.org/licenses/by/4.0/)
 
-## Project Report Iteration 1
+## Project Report Iteration 3
 
 ### Reflection
 During this iteration I was mainly just struggling with errors in my code keeping my game from running, one for which I was stuck on for the entirety of the last two iterations. When I did finally figure out the problem, I found this iteration and specifically working with the AnimationPlayer quite delicate, I was struggling to incorporate the AnimationPlayer and have it take affect but when I finally did figure it out it was much easier than I expected. 
