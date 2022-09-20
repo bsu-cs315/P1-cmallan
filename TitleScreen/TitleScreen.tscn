@@ -43,6 +43,7 @@ action_mode = 0
 text = "Start"
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+autoplay = "TitleScreeen"
 anims/TitleScreeen = SubResource( 1 )
 
 [node name="Label" type="Label" parent="AnimationPlayer"]

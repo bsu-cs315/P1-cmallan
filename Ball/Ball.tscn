@@ -6,7 +6,7 @@
 [ext_resource path="res://Assets/37154__volivieri__soccer-ball-hit-ground-01.wav" type="AudioStream" id=4]
 
 [sub_resource type="CircleShape2D" id=1]
-radius = 17.2627
+radius = 17.1172
 
 [sub_resource type="SpriteFrames" id=2]
 animations = [ {
@@ -17,6 +17,7 @@ animations = [ {
 } ]
 
 [node name="Ball" type="RigidBody2D"]
+scale = Vector2( 2, 2 )
 script = ExtResource( 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]

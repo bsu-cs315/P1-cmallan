@@ -60,4 +60,12 @@ position = Vector2( 356.5, 264.5 )
 [node name="FlagHit" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 4 )
 
+[node name="TitleReturn" type="Button" parent="."]
+margin_left = 186.5
+margin_top = 132.0
+margin_right = 289.5
+margin_bottom = 152.0
+text = "Return to Title"
+
 [connection signal="pressed" from="Button" to="." method="_on_Button_pressed"]
+[connection signal="pressed" from="TitleReturn" to="." method="_on_TitleReturn_pressed"]

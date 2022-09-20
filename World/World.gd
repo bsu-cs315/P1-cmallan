@@ -27,6 +27,7 @@ func _process(_delta):
 			$HUD/Angle.visible = true
 			$HUD/Power.visible = true
 			$HUD/Score.visible = true
+			$TitleReturn.visible = false
 			var _power = $Ball.get_power()
 			var _angle = $Ball.get_angle()
 			on_Power_update(_power)
@@ -37,7 +38,7 @@ func _process(_delta):
 			$HUD/BallsLeft.visible = false
 			$HUD/Angle.visible = false
 			$HUD/Power.visible = false
-			
+			$TitleReturn.visible = true
 		$HUD/BallsLeft.text = "Balls Left: " + str(_balls_available)
 		$HUD/Score.text = "Score: " + str(_score)
 		
@@ -90,3 +91,7 @@ func on_Power_update(new_power):
 	
 func on_Angle_update(new_angle):
 	$HUD/Angle.text = "Angle: " + str(int(-new_angle)) + "°"
+
+
+func _on_TitleReturn_pressed():
+	var _ignored := get_tree().change_scene("res://TitleScreen/TitleScreen.tscn")
